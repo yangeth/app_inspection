@@ -10,12 +10,9 @@ Aplicación desarrollada en Flutter para la inspección de vehículos, facilitan
 - [Características](#características)
 - [Requisitos Previos](#requisitos-previos)
 - [Configuración del Entorno](#configuración-del-entorno)
-- [Instalación](#instalación)
+- [Instalación de Flutter](#instalación)
 - [Uso](#uso)
 - [Estructura del Proyecto](#estructura-del-proyecto)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
-- [Contacto](#contacto)
 
 ## Características
 
@@ -33,8 +30,26 @@ Aplicación desarrollada en Flutter para la inspección de vehículos, facilitan
 
 Para configurar tu entorno de desarrollo con Flutter de forma sencilla, puedes seguir este video paso a paso:
 
-📺 **Video recomendado: Cómo instalar Flutter en Windows, macOS o Linux**
+📺 **Video recomendado: Instalacion de Flutter**
 
 [![Instalación de Flutter - YouTube](https://img.youtube.com/vi/fq4N0hgOWzU/0.jpg)](https://www.youtube.com/watch?v=OIlhCrBp-uw)
 
 > Este video te guía en la instalación del SDK de Flutter, configuración del PATH, instalación del editor (VS Code/Android Studio), y verificación con `flutter doctor`.
+
+## Estructura del Proyecto
+
+```plaintext
+app_inspection/
+├── lib/                      # Código fuente principal
+│   ├── main.dart             # Punto de entrada de la aplicación
+│   └── ...                   # Otros archivos y carpetas
+├── assets/                   # Recursos gráficos y otros assets
+├── android/                  # Configuración específica para Android
+├── ios/                      # Configuración específica para iOS
+├── linux/                    # Configuración específica para Linux
+├── macos/                    # Configuración específica para macOS
+├── web/                      # Configuración específica para Web
+├── pubspec.yaml              # Archivo de configuración de Flutter
+└── README.md                 # Este archivo
+```
+
