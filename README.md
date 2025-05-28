@@ -31,15 +31,10 @@ Aplicación desarrollada en Flutter para la inspección de vehículos, facilitan
 
 ## Configuración del Entorno
 
-1. **Instalar Flutter**:
+Para configurar tu entorno de desarrollo con Flutter de forma sencilla, puedes seguir este video paso a paso:
 
-   Sigue la guía oficial para instalar Flutter según tu sistema operativo:
+📺 **Video recomendado: Cómo instalar Flutter en Windows, macOS o Linux**
 
-   👉 https://docs.flutter.dev/get-started/install
+[![Instalación de Flutter - YouTube](https://img.youtube.com/vi/fq4N0hgOWzU/0.jpg)](https://www.youtube.com/watch?v=fq4N0hgOWzU)
 
-2. **Verificar instalación**:
-
-   Abre una terminal y ejecuta:
-
-   ```bash
-   flutter doctor
+> Este video te guía en la instalación del SDK de Flutter, configuración del PATH, instalación del editor (VS Code/Android Studio), y verificación con `flutter doctor`.
