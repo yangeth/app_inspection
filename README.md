@@ -91,8 +91,7 @@ app_inspection/
 ├── linux/                    # Configuración específica para Linux
 ├── macos/                    # Configuración específica para macOS
 ├── web/                      # Configuración específica para Web
-├── pubspec.yaml              # Archivo de configuración de Flutter
-└── README.md                 # Este archivo
+└── pubspec.yaml              # Archivo de configuración de Flutter
 ```
 
 
