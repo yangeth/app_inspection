@@ -25,8 +25,9 @@ Aplicación desarrollada en Flutter para la inspección de vehículos, facilitan
 
 ## Requisitos Previos
 
-- Conocimientos básicos de Flutter/Dart.
-- Acceso a un emulador o dispositivo físico para pruebas.
+- [Flutter SDK 3.0.0](https://docs.flutter.dev/get-started/install)
+- [Dart 2.17.0](https://dart.dev/get-dart)
+- IDE compatible (recomendado: [Visual Studio Code](https://code.visualstudio.com/) o [Android Studio](https://developer.android.com/studio))
 
 ## Configuración del Entorno
 
