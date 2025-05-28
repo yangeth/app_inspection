@@ -75,6 +75,30 @@ Para configurar tu entorno de desarrollo con Flutter de forma sencilla, puedes s
 3. **Realizar inspección**: Completa la evaluación siguiendo las indicaciones.
 4. **Generar informe**: Al finalizar, se genera un informe detallado.
 
+## Dependencias
+
+El proyecto utiliza las siguientes dependencias principales:
+
+- [`flutter`](https://flutter.dev) – SDK base de Flutter.
+- [`get`](https://pub.dev/packages/get) – Gestión de estado y navegación.
+- [`provider`](https://pub.dev/packages/provider) – Otra opción para la gestión de estado.
+- [`google_fonts`](https://pub.dev/packages/google_fonts) – Uso de fuentes personalizadas desde Google Fonts.
+- [`cupertino_icons`](https://pub.dev/packages/cupertino_icons) – Íconos estilo iOS.
+- [`image_picker`](https://pub.dev/packages/image_picker) – Selección de imágenes desde galería o cámara.
+- [`flutter_localizations`](https://docs.flutter.dev/ui/accessibility/internationalization) – Soporte para localización.
+- [`intl`](https://pub.dev/packages/intl) – Internacionalización y formatos de fechas/números.
+- [`shared_preferences`](https://pub.dev/packages/shared_preferences) – Almacenamiento local de preferencias.
+- [`flutter_image_compress`](https://pub.dev/packages/flutter_image_compress) – Compresión de imágenes.
+- [`http`](https://pub.dev/packages/http) – Peticiones HTTP a APIs.
+
+Dependencias de desarrollo:
+
+- [`flutter_test`](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html) – Para pruebas unitarias.
+- [`flutter_lints`](https://pub.dev/packages/flutter_lints) – Reglas de linting recomendadas por Flutter.
+
+> Asegúrate de ejecutar `flutter pub get` después de clonar el proyecto para instalar todas estas dependencias.
+
+
 ## Estructura del Proyecto
 
 ```plaintext
