@@ -16,7 +16,7 @@ Aplicación desarrollada en Flutter para la inspección de vehículos, facilitan
 
 ## Características
 
-- **Multiplataforma**: Compatible con Android, iOS, Linux, macOS y Web.
+- **Multiplataforma**: Compatible con Android, iOS, macOS y Web.
 - **Evaluación Detallada**: Permite la inspección minuciosa de componentes de vehículos.
 - **Interfaz Intuitiva**: Diseñada para una experiencia de usuario óptima.
 
