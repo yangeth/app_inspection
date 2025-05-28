@@ -81,8 +81,11 @@ Para configurar tu entorno de desarrollo con Flutter de forma sencilla, puedes s
 ```plaintext
 app_inspection/
 ├── lib/                      # Código fuente principal
-│   ├── main.dart             # Punto de entrada de la aplicación
-│   └── ...                   # Otros archivos y carpetas
+│   ├── screens/              # Pantallas de la aplicación
+│   ├── widgets/              # Componentes reutilizables
+│   ├── ln10/                 # Archivos para traducciones
+│   ├── utils/                # Utilidades y funciones auxiliares
+│   └── main.dart             # Punto de entrada de la aplicación
 ├── assets/                   # Recursos gráficos y otros assets
 ├── android/                  # Configuración específica para Android
 ├── ios/                      # Configuración específica para iOS
