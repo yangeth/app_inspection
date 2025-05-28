@@ -35,6 +35,6 @@ Para configurar tu entorno de desarrollo con Flutter de forma sencilla, puedes s
 
 📺 **Video recomendado: Cómo instalar Flutter en Windows, macOS o Linux**
 
-[![Instalación de Flutter - YouTube](https://img.youtube.com/vi/fq4N0hgOWzU/0.jpg)](https://youtu.be/OIlhCrBp-uw?si=l7QxdOuq3CzUeAIi)
+[![Instalación de Flutter - YouTube](https://img.youtube.com/vi/fq4N0hgOWzU/0.jpg)](https://www.youtube.com/watch?v=OIlhCrBp-uw)
 
 > Este video te guía en la instalación del SDK de Flutter, configuración del PATH, instalación del editor (VS Code/Android Studio), y verificación con `flutter doctor`.
