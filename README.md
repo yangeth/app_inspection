@@ -36,6 +36,46 @@ Para configurar tu entorno de desarrollo con Flutter de forma sencilla, puedes s
 
 > Este video te guía en la instalación del SDK de Flutter, configuración del PATH, instalación del editor (VS Code/Android Studio), y verificación con `flutter doctor`.
 
+## Instalación del proyecto en local
+
+1. **Clonar el repositorio**:
+
+   ```bash
+   git clone https://github.com/yangeth/app_inspection.git
+   ```
+
+2. **Acceder al directorio del proyecto**:
+
+   ```bash
+   cd app_inspection
+   ```
+
+3. **Instalar dependencias**:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. **Ejecutar la aplicación**:
+
+   ```bash
+   flutter run
+   ```
+
+   > También puedes especificar un dispositivo, por ejemplo:
+   >
+   > ```bash
+   > flutter run -d chrome   # Para web
+   > flutter run -d android # Para Android
+   > ```
+
+## Uso
+
+1. **Iniciar sesión**: Accede con tus credenciales.
+2. **Seleccionar vehículo**: Elige el vehículo a inspeccionar.
+3. **Realizar inspección**: Completa la evaluación siguiendo las indicaciones.
+4. **Generar informe**: Al finalizar, se genera un informe detallado.
+
 ## Estructura del Proyecto
 
 ```plaintext
@@ -52,4 +92,5 @@ app_inspection/
 ├── pubspec.yaml              # Archivo de configuración de Flutter
 └── README.md                 # Este archivo
 ```
+
 
