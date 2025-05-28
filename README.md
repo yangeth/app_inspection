@@ -1,7 +1,6 @@
 # App Inspection
 
 ![Flutter Version](https://img.shields.io/badge/Flutter-3.0.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Aplicación desarrollada en Flutter para la inspección de vehículos, facilitando la evaluación y documentación de componentes clave.
 
