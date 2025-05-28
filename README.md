@@ -1,16 +1,44 @@
-# app_inspection
+# App Inspection
 
-A new Flutter project.
+![Flutter Version](https://img.shields.io/badge/Flutter-3.0.0-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Getting Started
+Aplicación desarrollada en Flutter para la inspección de vehículos, facilitando la evaluación y documentación de componentes clave.
 
-This project is a starting point for a Flutter application.
+## Índice
 
-A few resources to get you started if this is your first Flutter project:
+- [Características](#características)
+- [Requisitos Previos](#requisitos-previos)
+- [Configuración del Entorno](#configuración-del-entorno)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+- [Contacto](#contacto)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Características
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Multiplataforma**: Compatible con Android, iOS, Linux, macOS y Web.
+- **Evaluación Detallada**: Permite la inspección minuciosa de componentes de vehículos.
+- **Interfaz Intuitiva**: Diseñada para una experiencia de usuario óptima.
+
+## Requisitos Previos
+
+- Conocimientos básicos de Flutter/Dart.
+- Acceso a un emulador o dispositivo físico para pruebas.
+
+## Configuración del Entorno
+
+1. **Instalar Flutter**:
+
+   Sigue la guía oficial para instalar Flutter según tu sistema operativo:
+
+   👉 https://docs.flutter.dev/get-started/install
+
+2. **Verificar instalación**:
+
+   Abre una terminal y ejecuta:
+
+   ```bash
+   flutter doctor
